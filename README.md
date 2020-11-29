@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="630" height="150" src="https://github.com/leahcimto/leahcimto/blob/main/leahcimto%20github%20banner.png?raw=true">
+</p>
+
 ### Hi there 👋
 - 🔭 I’m currently working on my site because it's kinda empty, and updating the forum helpers website.
 - 🌱 I’m currently learning HTML and CSS
