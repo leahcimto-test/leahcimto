@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning HTML and CSS
 - 💬 Ask me about anything!
 - 📫 How to reach me: make an issue on [leahcimto/leahcimto](https://github.com/leahcimto/leahcimto)
-- 😄 Pronouns: they/them/their
+- 😄 Pronouns: he/him or they/them
 - 💻 Webisite: [leahcimto.github.io](leahimto.github.io)
 - ⚡ Fun fact: I got my username by spelling my real name (Michael) backwards and adding two random letters.
 
