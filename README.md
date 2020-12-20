@@ -12,4 +12,5 @@
 - ⚡ Fun fact: I got my username by spelling my real name (Michael) backwards and adding two random letters.
 
 ### My stats 📈
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leahcimto&show_icons=true&theme=prussian)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leahcimto&show_icons=true&theme=prussian&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leahcimto&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
